@@ -1,0 +1,14 @@
+NOTES
+
+Het CBS geeft gedetailleerde gegevens over de Nederlandse situatie. Gebruik ik deze dataset: https://www.cbs.nl/nl-nl/maatwerk/2021/37/lichaamslengte? Of deze: https://www.cbs.nl/nl-nl/nieuws/2021/37/nederlanders-korter-maar-nog-steeds-lang#:~:text=21%20procent%20van%20de%20mannen%20langer%20dan%20190%20cm&text=In%202020%20is%20ruim%20een,dan%20175%20cm. een notitie hierbij is dat de data voortkomt uit zelfrapportage? Voor verschillende landen is de data mogelijk op verschillende manieren verzameld.
+
+voorbeeld: https://ourworldindata.org/human-height#:~:text=Globally%2C%20the%20mean%20height%20of,versus%20159%20cm%20for%20women.
+
+achtergrond bij de NCD dataset: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31859-6/fulltext
+DOI: https://doi.org/10.1016/S0140-6736(20)31859-6
+
+package voor grapher: https://github.com/owid/owid-grapher-py
+
+Zie ook dit voorbeeld van een kaart met de data: https://worldpopulationreview.com/country-rankings/average-height-by-country
+
+Zie hier een voorbeeld voor het presenteren van data over cohorten: https://elifesciences.org/articles/13410/figures#content check de seaborn gallery voor voorbeelden. seaborn.pydata.org/examples/index.html
