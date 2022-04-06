@@ -12,3 +12,11 @@ package voor grapher: https://github.com/owid/owid-grapher-py
 Zie ook dit voorbeeld van een kaart met de data: https://worldpopulationreview.com/country-rankings/average-height-by-country
 
 Zie hier een voorbeeld voor het presenteren van data over cohorten: https://elifesciences.org/articles/13410/figures#content check de seaborn gallery voor voorbeelden. seaborn.pydata.org/examples/index.html
+
+Questions
+How has human height developed in different countries around the world?
+Are Dutch people indeed getting less tall, and since when did this trend set in?
+Are there other countries where growth is stagnating and/or declining?
+Are there countries where the average height is increasing?
+To consider: is there a difference between men and women in all this?
+And finally: can we estimate if and which country will be taking over the #1 position from the Dutch?
